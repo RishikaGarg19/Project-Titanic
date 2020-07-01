@@ -28,7 +28,7 @@ PassengerID,Ticket,Cabin,Name,Age,Embarked,Sex,SibSp,Parch,Pclass,Fare,Survived
 27,2631,,"Emir, Mr. Farred Chehab",,C,Male,0,0,3,7.225,0
 28,19950,C23 C25 C27,"Fortune, Mr. Charles Alexander",19,S,Male,3,2,1,263,0
 29,330959,,"O'Dwyer, Miss. Ellen ""Nellie""",,Q,Female,0,0,3,7.8792,1
-30,349216,,"Todoroff, Mr. Lalio",,S,Male,0,0,3,7.8958,0
+30,349216,,"Todoroff, Mr. Lalio",,S,Male,0,0,3,7.8958,0 
 31,PC 17601,,"Uruchurtu, Don. Manuel E",40,C,Male,0,0,1,27.7208,0
 32,PC 17569,B78,"Spencer, Mrs. William Augustus (Marie Eugenie)",,C,Female,1,0,1,146.5208,1
 33,335677,,"Glynn, Miss. Mary Agatha",,Q,Female,0,0,3,7.75,1
