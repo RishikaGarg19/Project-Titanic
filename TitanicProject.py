@@ -31,7 +31,7 @@ print("Accuracy with Logistic Regression :")
 print(accuracy_score(Y_test, Y_pred1))
 print()
 
-from sklearn.tree import DecisionTreeClassifier
+from sklearn.tree import DecisionTreeClassifier 
 dtclassifier = DecisionTreeClassifier()
 dtclassifier.fit(X_train, Y_train)
 
